@@ -37,4 +37,13 @@
     #own{
       right: 0px;
       direction: rtl;
-    }
+    } 
+
+
+   .social{
+     display: flex;
+     display: inline-block;
+     background-color: crimson;
+     justify-content: center;
+     padding: 12px 16px;
+   } 
